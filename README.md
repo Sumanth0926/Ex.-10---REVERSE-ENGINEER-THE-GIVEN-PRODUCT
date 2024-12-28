@@ -32,8 +32,12 @@
 
 ## Input:
 
+
+![WhatsApp Image 2024-12-28 at 13 47 31_169b8ff9](https://github.com/user-attachments/assets/d01afefa-ff65-497b-a63d-400283e49775)
+
 ### Output:
-![Screenshot 2024-12-19 223104](https://github.com/user-attachments/assets/5acfc008-77d3-4571-ba9e-68632f9ec1d0)
+
+![WhatsApp Image 2024-12-28 at 13 47 22_72f864f6](https://github.com/user-attachments/assets/bcd1542a-ff46-4863-81aa-4a844bd9f251)
 
 
 ### Name: Pothu Sumanth
